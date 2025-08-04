@@ -5,47 +5,47 @@
   },
   {
     "id": 2,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/2.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/2.jpg",
   }
     {
     "id": 10,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/10.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/10.jpg",
   }
    {
     "id": 11,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/11.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/11.jpg",
   }
      {
     "id": 12,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/12.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/12.jpg",
   }
      {
     "id": 3,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/3.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/3.jpg",
   }
      {
     "id": 4,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/4.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/4.jpg",
   }
      {
     "id": 5,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/5.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/5.jpg",
   }
        {
     "id": 6,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/6.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/6.jpg",
   }
        {
     "id": 7,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/7.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/7.jpg",
   }
        {
     "id": 8,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/8.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/8.jpg",
   }
        {
     "id": 9,
-    "https://github.com/mizhuchkova/CSP/blob/main/docs/images/9.jpg",
+    "imageURL": "https://github.com/mizhuchkova/CSP/blob/main/docs/images/9.jpg",
   }
 ]
 
