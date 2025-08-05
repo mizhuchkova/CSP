@@ -1,6 +1,5 @@
 [
   {
-  {
     "id": 1,
     "category": "birds",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/1.jpg",
@@ -30,7 +29,6 @@
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/12.jpg",
     "videoURL": null
   }
-     {
  {
     "id": 3,
     "category": "flowers",
