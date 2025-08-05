@@ -10,61 +10,61 @@
     "category": "fruits",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/2.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 10,
     "category": "animals",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/10.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 11,
     "category": "ocean",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/11.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 12,
     "category": "landmarks",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/12.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 3,
     "category": "flowers",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/3.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 4,
     "category": "fruits",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/4.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 5,
     "category": "sweets",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/5.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 6,
     "category": "sweets",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/6.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 7,
     "category": "fruits",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/7.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 8,
     "category": "flowers",
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/8.jpg",
     "videoURL": null
-  }
+  },
  {
     "id": 9,
     "category": "ocean",
