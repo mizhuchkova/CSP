@@ -2,43 +2,43 @@
   {
     "id": 1,
     "category": "birds",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/birds_01.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/birds_1.jpg",
     "videoURL": null
   },
   {
     "id": 2,
     "category": "daily",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/daily_01.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/daily_01.jpg",
     "videoURL": null
   },
     {
     "id": 3,
     "category": "daily",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/daily_02.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/daily_02.jpg",
     "videoURL": null
   },
       {
     "id": 4,
     "category": "daily",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/daily_03.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/daily_03.jpg",
     "videoURL": null
   },
         {
     "id": 5,
     "category": "flowers",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/flowers_01.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/flowers_01.jpg",
     "videoURL": null
   },
          {
     "id": 6,
     "category": "flowers",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/flowers_02.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/flowers_02.jpg",
     "videoURL": null
   },
           {
     "id": 7,
     "category": "flowers",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/flowers_03.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/blob/main/docs/images/birds/flowers_03.jpg",
     "videoURL": null
   }
 ]
