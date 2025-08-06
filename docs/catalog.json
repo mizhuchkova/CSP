@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "category": "all", "birds",
+    "category": ["all", "birds"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/birds/birds_1.jpg",
     "videoURL": null
   },
   {
     "id": 2,
-    "category": "all","daily",
+    "category": ["all","daily"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/daily/daily_1.jpg",
     "videoURL": null
   },
     {
     "id": 3,
-    "category": "all","daily",
+    "category": ["all","daily"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/daily/daily_2.jpg",
     "videoURL": null
   },
@@ -25,19 +25,19 @@
   },
         {
     "id": 5,
-    "category": "all","flowers",
+    "category": ["all","flowers"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/flowers/flowers_1.jpg",
     "videoURL": null
   },
          {
     "id": 6,
-    "category": "all","flowers",
+    "category": ["all","flowers"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/flowers/flowers_2.jpg",
     "videoURL": null
   },
           {
     "id": 7,
-    "category": "all","flowers",
+    "category": ["all","flowers"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/flowers/flowers_3.jpg",
     "videoURL": null
   }
