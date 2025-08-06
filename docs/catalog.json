@@ -19,7 +19,7 @@
   },
       {
     "id": 4,
-    "category": "all","daily",
+    "category": ["all","daily"],
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/daily/daily_3.jpg",
     "videoURL": null
   },
