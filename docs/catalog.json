@@ -41,4 +41,11 @@
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/flowers/flowers_3.jpg",
     "videoURL": null
   }
+  ,
+          {
+    "id": 8,
+    "category": "daily",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/daily/test.jpg",
+    "videoURL": null
+  }
 ]
