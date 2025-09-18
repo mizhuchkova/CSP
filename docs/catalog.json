@@ -52,21 +52,21 @@
           {
     "id": 9,
     "category": "nature",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_1.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_1.jpeg",
     "videoURL": null
   }
       ,
           {
     "id": 10,
     "category": "nature",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_2.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_2.jpeg",
     "videoURL": null
   }
       ,
           {
     "id": 11,
     "category": "nature",
-    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_3.jpg",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_3.jpeg",
     "videoURL": null
   }
 ]
