@@ -48,4 +48,25 @@
     "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/daily/test.jpg",
     "videoURL": null
   }
+    ,
+          {
+    "id": 9,
+    "category": "nature",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_1.jpg",
+    "videoURL": null
+  }
+      ,
+          {
+    "id": 10,
+    "category": "nature",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_2.jpg",
+    "videoURL": null
+  }
+      ,
+          {
+    "id": 11,
+    "category": "nature",
+    "imageURL": "https://raw.githubusercontent.com/mizhuchkova/CSP/main/docs/images/nature/nature_3.jpg",
+    "videoURL": null
+  }
 ]
